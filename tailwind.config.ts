@@ -19,9 +19,11 @@ const config: Config = {
         'lgrey-3':'#272b2b',
         'lgrey-4':'#444c4c',
         'lgrey-5':'#717979',
+        'lgrey-6':'#2f3836',
         'lsky' : '#97e4dc',
         'lsky-1':'#98e5dd',
-        'lorange':'#eeb58f'
+        'lorange':'#eeb58f',
+        'lbrown':'#443d35',
       },
     },
   },
